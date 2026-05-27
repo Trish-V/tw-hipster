@@ -1,6 +1,6 @@
 {
   "name": "tw-hipster",
-  "version": "2.0.0",
+  "version": "2.4.5",
   "description": "A JDL-to-Angular code generator. based on tailwind + angular material",
   "main": "cli.js",
   "bin": {
